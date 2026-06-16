@@ -46,7 +46,7 @@ A web-based project developed for learning and practicing software development s
 ## 📫 Contact Me
 
 * GitHub: https://github.com/NhungNT27112005
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: ntn27112005@gmail.com
 
 ---
 
